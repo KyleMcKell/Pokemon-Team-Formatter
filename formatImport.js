@@ -40,13 +40,6 @@ function formatShowdownImport(answer) {
   const evs = formatEVs(answer);
   const ivs = formatIVs(answer);
 
-  // console.log('name', name);
-  // console.log('level', level);
-  // console.log('nature', nature);
-  // console.log('ability', ability);
-  // console.log('item', item);
-  // console.log('moves', moves);
-
   if (nature === '' && ability === '') {
     const formattedText = `${name} ${item}\n${level}\n${moves}\n\n`;
     return formattedText;
