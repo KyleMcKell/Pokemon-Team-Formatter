@@ -147,3 +147,13 @@ Don't Do: `Urshifu-Single-Strike`
 Instead Do: `Urshifu`
 
 There may be more than this that I haven't covered.
+
+## To Dos
+
+- Make code read file and spit out a file rather than making you copy and paste each line into the terminal
+
+- Find more edge cases for naming
+
+- Find more edge cases for moves
+
+- Implement allowing both EVs and IVs to work together (they currently work separately)
