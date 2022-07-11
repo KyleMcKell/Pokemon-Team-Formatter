@@ -8,12 +8,16 @@ You will need to have installed nodejs on your computer.
 
 Install packages (only package is for better copy and pasting experience)
 
-First run `node formatNicknames` to format your code into Pokemon with nicknames added.
+First run `node formatNicknames` to format your code into Pokemon with nicknames added. It will prompt you to input a pokemon to format. I just copy and paste all of my lines into my terminal (with new lines to make it prompt me again), and it works great.
 
 - This adds the trainer name and location to each pokemon.
 - If you didn't add Trainer or locations to your doc, skip this step
 
 Then run `node formatInput` to generate your showdown importable pokemon layout.
+
+- Same idea as before, copy and paste into the terminal.
+
+**I use the VSCode bash terminal, your terminal may behave differently**
 
 ## How to set up your file
 
