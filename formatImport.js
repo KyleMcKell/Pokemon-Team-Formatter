@@ -112,10 +112,10 @@ function formatNatureAndAbility(answer) {
 
   const natureAndAbility = onlyNatureAndAbility[1];
 
-  const onlyNature = natureAndAbility.split('|')[0];
+  const onlyNature = natureAndAbility.split('/')[0];
   const natureTrim = onlyNature.trim();
 
-  const onlyAbility = natureAndAbility.split('|')[1];
+  const onlyAbility = natureAndAbility.split('/')[1];
 
   const abilitySplit = onlyAbility.split('}')[0];
   const abilityTrim = abilitySplit.trim();
@@ -166,9 +166,9 @@ function formatEVs(answer) {
 }
 
 function formatIVs(answer) {
-  if (answer.includes('/')) {
-    const splitAnswer = answer.split('/');
-    const trimBack = splitAnswer[1].split('/')[0];
+  if (answer.includes('|')) {
+    const splitAnswer = answer.split('|');
+    const trimBack = splitAnswer[1].split('|')[0];
     const trimBackTrim = trimBack.trim();
     const ivArray = trimBackTrim.split(',');
     const joinedIvArray = ivArray.join(' / ');
