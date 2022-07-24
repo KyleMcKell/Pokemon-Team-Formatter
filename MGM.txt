@@ -1,0 +1,220 @@
+~Route 22
+*Rival 3 [Grass]
+Starly Lv.09: Tackle, Growl, Quick Attack, Wing Attack {Mild/Frisk}
+Bulbasaur Lv.09 Tackle, Growl, Leech Seed, Magical Leaf {Timid/Overgrow}
+*Rival 1 [Fire]
+Starly Lv.09: Tackle, Growl, Quick Attack, Wing Attack {Mild/Frisk}
+Squirtle Lv.09: Tackle, Tail Whip, Bubble {Relaxed/Torrent}
+*Rival 2 [Water]
+Starly Lv.09: Tackle, Growl, Quick Attack, Wing Attack {Mild/Frisk}
+Squirtle Lv.09: Tackle, Tail Whip, Bubble {Relaxed/Torrent}
+~Viridian Forest
+*Brendan 1
+Corphish Lv.07: Bubble, Harden, Vice Grip {Rash/Battle Armor}
+Treecko Lv.08: Pound, Leer, Absorb {Hardy/Overgrow}
+*Lass Anne
+Togepi Lv.14 @Eviolite: Metronome {Bashful/Serene Grace}
+Clefairy Lv.13 @Life Orb: Metronome {Bashful/Magic Guard}
+Audino Lv.15: Yawn, Swagger, Wish, Protect {Bashful/Klutz}
+~Pewter City
+*Falkner
+Rufflet Lv.13 @Berry Juice: Aerial Ace, Slash, Rock Smash, Roost {Jolly/Hustle}
+Emolga Lv.13 @Berry Juice: Shock Wave, Air Cutter, Sleep Talk, Roost {Timid/Lightning Rod}
+Corvisquire Lv.14 @Berry Juice: Pluck, Roost, Rock Smash, Hone Claws {Careful/Unnerve}
+*Brock
+Geodude-Alola Lv.13 @Custap Berry: Spark, Rock Tomb, Self-Destruct, Bulldoze {Bashful/Sturdy}
+Vulpix Lv.14 @Oran Berry: Incinerate, Ominous Wind, Hidden Power Grass, Sleep Talk {Modest/Flash Fire}
+Archen Lv.12 @Oran Berry: Pluck, Rock Tomb, Bulldoze, Roost {Bashful/Defeatist}
+Onix Lv.14 @Berry Juice: Rock Tomb, Bulldoze, Sleep Talk {Bashful/Sturdy}
+~Mt. Moon
+*Miguel
+Voltorb-Hisui Lv.17 @Focus Sash: Magical Leaf, Self-Destruct, Volt Switch, Hidden Power Ice {Naive/Reckless}
+Thwackey Lv.19 @Eviolite: Fake Out, Razor Leaf, Knock Off, U-turn {Bashful/Grassy Surge}
+Bibarel Lv.18 @Grassy Seed: Headbutt, Aqua Jet, Curse, Rock Smash {Careful/Simple}
+Sableye Lv.18 @Leftovers: Will-O-Wisp, Recover, Protect, Foul Play {Careful/Prankster}
+*Archer
+Impidimp Lv.18 @Oran Berry: Fake Out, Bite, Thunder Wave, Drain Kiss {Bashful/Prankster}
+Houndour Lv.19 @Wise Glasses: Snarl, Incinerate, Hidden Power Grass, Thunder Fang {Modest/Flash Fire}
+Mightyena Lv.21 @Berry Juice: Bite, Ice Fang, Howl, Poison Fang {Bashful/Strong Jaw}
+~Cerulean City
+*Rival 2 [Grass]
+Kirlia Lv.18: Confusion, Disarming Cry, Magical Leaf {Bashful/Trace}
+Staravia Lv.19: Wing Attack, Quick Attack {Bashful/Intimidate}
+Rockruff Lv.20: Rock Tomb, Bite, Howl {Bashful/Frisk}
+Charmeleon Lv.21 @Sitrus Berry: Scratch, Ember {Adamant/Blaze}
+*Rival 2 [Fire]
+Kirlia Lv.18: Confusion, Disarming Cry, Magical Leaf {Bashful/Trace}
+Staravia Lv.19: Wing Attack, Quick Attack {Bashful/Intimidate}
+Rockruff Lv.20: Rock Tomb, Bite, Howl {Bashful/Frisk}
+Wartortle Lv.21 @Sitrus Berry: Water Pulse, Bite {Modest/Torrent}
+*Rival 2 [Water]
+Kirlia Lv.18: Confusion, Disarming Cry, Magical Leaf {Bashful/Trace}
+Staravia Lv.19: Wing Attack, Quick Attack {Bashful/Intimidate}
+Rockruff Lv.20: Rock Tomb, Bite, Howl {Bashful/Frisk}
+Ivysaur Lv.21 @Sitrus Berry: Bullet Seed, Leech Seed, Sleep Powder, Take Down {Adamant/Overgrow}
+~Nugget Bridge
+*Rocket Grunt
+Growlithe Lv.25 @Eviolite: Dragon Rage, Fire Fang, Thunder Fang, Bulldoze {Careful/Intimidate}
+Gabite Lv.24 @Eviolite: Body Slam, Rock Slide, Dual Chop, Bulldoze {Impish/Rough Skin}
+Togedemaru Lv.24 @Rocky Helmet: U-turn, Zippy Zap, Iron Head, Nuzzle {Careful/Iron Barbs}
+Komala Lv.25 @Silk Scarf: Protect, Last Resort {Adamant/Comatose}
+~Cerulean City
+*Dig Grunt
+Persian-Alola Lv.23 @Black Glasses: Snarl, Water Pulse, Parting Shot, Shock Wave {Timid/Feline Prowess}
+Raticate Lv.22 @Silk Scarf: Hyper Fang, Stomping Tantrum, Throat Chop, U-turn {Jolly/Run Away}
+Golbat Lv.24 @Eviolite: Mega Drain, Cross Poison, Air Cutter, Hidden Power Fire {Naive/Sniper}
+Octillery Lv.24 @Rindo Berry: Bullet Seed, Rock Blast, Water Pulse, Icy Wind {Rash/Skill Link}
+*Misty
+Frogadier Lv.26 @Eviolite: Ice Punch, Rock Tomb, Flip Turn, Grass Knot {Naughty/Protean}
+Floatzel Lv.25 @Mystic Water: Water Pulse, Flip turn, Icy Wind, Hidden Power Grass {Modest/Technician}
+Starmie Lv.27 @Sitrus Berry: Scald, Recover, Psyshock, Icy Wind {Modest/Natural Cure}
+Lanturn Lv.25 @Iapapa Berry: Parabolic Charge, Scald, Icy Wind, Hidden Power Dark {Bashful/Illuminate}
+~Route 25
+*Bugsy [Pre-Surge]
+Ariados Lv.Scale-2 @Poison Barb: Shadow Sneak, Fell Stinger, Bug Bite, Poison Fang {Adamant/Swarm}
+Scyther Lv.Scale-2 @Charti Berry: Bug Bite, Aerial Ace, Brick Break, Swords Dance {Bashful/Technician}
+Ledian Lv.Scale-2 @Focus Sash: Drain Punch, Ice Punch, Mach Punch, U-turn {Bashful/Iron First}
+Scizor Lv.Scale-2 @Sitrus Berry: Bullet Punch, U-turn, Aerial Ace, Roost {Bashful/Technician}
+*Bugsy [Post-Surge]
+Kleavor Lv.Scale-2 @Focus Sash: Stealth Rock, Rock Blast, U-turn, Bulldoze {Jolly/Technician}
+Araquanid Lv.Scale-2 @Leftovers: X-Scissor, Liquidation, Protect, Toxic {Impish/Water Bubble}
+Scizor-Mega Lv.Scale-2 @Scizorite: Bullet Punch, Dual Wingbeat, U-turn, Rock Smash {Careful/Technician}
+Scyther Lv.Scale-2 @Eviolite: Swords Dance, Dual Wingbeat, Bug Bite, Rock Smash {Adamant/Technician}
+Heracross Lv.Scale-2 @Occa Berry: Megahorn, Close Combat, Stone Edge, Bullet Seed {Jolly/Moxie}
+Vikavolt Lv.Scale-2 @Magnet: Thunder, Bug Buzz, Volt Switch, Energy Ball {Modest/Levitate}
+~Route 11
+*Whitney
+Wigglytuff Lv.Scale-2 @Sitrus Berry: Drain Punch, Fire Punch, Lovely Kiss, Play Rough {Adamant/Sheer Force}
+Miltank Lv.Scale-2 @Leftovers: Body Slam, Body Press, Stomping Tantrum, Milk Drink {Adamant/Thick Fat}
+Vigoroth Lv.Scale-2 @Eviolite: Bulk Up, Slack Off, Body Slam, Knock Off {Jolly/Vital Spirit}
+Indeedee Lv.Scale-2 @Twisted Spoon: Psyshock, Hyper Voice, Mystical Fire, Drain Kiss {Timid/Psychic Surge}
+Drampa Lv.Scale-2 @Leftovers: Dragon Breath, Roost, Flamethrower, Thunderbolt {Modest/Berserk}
+~S.S. Anne
+*Gentleman Brooks
+Dewott Lv.32 @Eviolite: Water Pledge, Flash Cannon, Ice Beam, Hidden Power Grass {Bashful/Battle Armor}
+Simisear Lv.32 @Charcoal: Fire Pledge, Low Kick, Grass Knot, Hidden Power Ice {Naive/Gluttony}
+*Lass Ann
+Dartrix Lv.29 @Miracle Seed: Shadow Sneak, Grass Pledge, Air Slash, Hidden Power Fire {Modest/Tinted Lens}
+Simisage Lv.29 @Miracle Seed: Grass Pledge, Focus Blast, Hidden Power Fire, Power Gem {Timid/Gluttony}
+Wigglytuff Lv.29 @Life Orb: Draining Kiss, Shock Wave, Round, Incinerate {Modest/Sheer Force}
+*Sailor Edmond
+Lileep Lv.30 @Eviolite: Power Gem, Giga Drain, Earth Power, Hidden Power Fire {Modest/Storm Drain}
+Lumineon Lv.29 @Mystic Water: Scald, Ice Beam, Hidden Power Grass, Flip Turn {Timid/Storm Drain}
+Gastrodon Lv.30 @Rindo Berry: Scald, Earth Power, Protect, Sludge Bomb {Modest/Storm Drain}
+*Sailor Trevor
+Cramorant Lv.29 @Focus Sash: Surf, U-turn, Air Slash, Safeguard {Timid/Gulp Missile}
+Nidoqueen Lv.29 @Black Sludge: Surf, Scorching Sands, Sludge, Reflect {Timid/Sheer Force}
+Masquerain Lv.29 @Sitrus Berry: Surf, Bug Buzz, Energy Ball, Safeguard {Timid/Intimidate}
+*Brendan 2
+Loudred Lv.32 @Chople Berry: Hyper Voice, Brick Break, Ice Beam, Shadow Ball {Naive/Punk Rock}
+Lunatone Lv.32 @Colbur Berry: Psyshock, Power Gem, Hypnosis, Calm Mind {Modest/Levitate}
+Grovyle Lv.32 @Sitrus Berry: Power-Up Punch, Aerial Ace, Leaf Blade, Rock Tomb {Adamant/Overgrow}
+Crawdaunt Lv.32 @Focus Sash: Aqua Jet, Waterfall, Knock Off, X-Scissor {Adamant/Adaptability}
+~Vermillion City
+*Lt. Surge
+Pincurchin Lv.32 @Electric Seed: Volt Switch, Scald, Discharge, Hidden Power Grass {Modest/Electric Surge}
+Raichu-Alola Lv.33 @Twisted Spoon: Psyshock, Volt Switch, Nasty Plot, Grass Knot {Modest/Surge Surfer}
+Vikavolt Lv.33 @Occa Berry: Volt Switch, Bug Buzz, Energy Ball, Roost {Modest/Levitate}
+Boltund Lv.33 @Expert Belt: Thunder Fang, Fire Fang, Ice Fang, Psychic Fang {Jolly/Strong Jaw}
+Manectric-Mega Lv.34 @Manectite: Change Beam, Flame Burst, Volt Switch, Hidden Power Grass {Modest/Intimidate}
+~Route 9
+*Picnicker Caitlin
+Smeargle Lv.Scale-2 @Choice Scarf: V-create, Dragon Ascent, Trick, Close Combat {Jolly/Own Tempo}
+Spinda Lv.Scale-3: Assist {Jolly/Contrary}
+Sneasel-Hisui Lv.Scale-4 @Eviolite: Assist {Bashful/Inner Focus}
+Liepard Lv.Scale-4 @Focus Sash: Assist {Bashful/Prankster}
+~Lavender Town
+*Morty
+Mimikyu Lv.Scale-2 @Lum Berry: Play Rough, Shadow Claw, Shadow Sneak, Swords Dance {Jolly/Disguise}
+Zoroark Lv.Scale-2 @Colbur Berry: Hyper Voice, Shadow Ball, Flamethrower, Nasty Plot {Timid/Illusion}
+Dusknoir Lv.Scale-2 @Reaper Cloth: Shadow Punch, Shadow Sneak, Dynamic Punch, Will-O-Wisp {Adamant/Hustle}
+Gengar-Mega Lv.Scale-2 @Gengarite: Shadow Ball, Sludge Wave, Nasty Plot, Focus Blast {Timid/Shadow Tag}
+Weavile Lv.Scale-2 @Focus Sash: Triple Axel, Knock Off, Ice Shard, Swords Dance {Jolly/Infiltrator}
+Typhlosion-Hisui Lv.Scale-2 @Charcoal: Flamethrower, Infernal Parade, Focus Blast, Hidden Power Grass {Timid/Flash Fire}
+~Celadon City
+*Erika
+Rillaboom Lv.43 @Terrain Extender: U-turn, High Horsepower, Drain Punch, Grassy Glide {Jolly/Grassy Surge}
+Meganium Lv.44 @Grass Seed: Giga Drain, Dazzling Gleam, Ancient Power, Hidden Power Fire {Modest/Triage}
+Serperior Lv.43 @Focus Sash: Leaf Storm, Giga Drain, Dragon Pulse, Hidden Power Fire {Timid/Contrary}
+Electrode-Hisui Lv.44 @Life Orb: Thunderbolt, Chloroblast, Hidden Power Ice, Explosion {Naive/Reckless}
+Venusaur-Mega Lv.44 @Venusaurite: Giga Drain, Sludge Bomb, Sleep Powder, Earth Power {Modest/Thick Fat}
+~Rocket Hideout
+*Giovanni 1
+Nidoking Lv.45 @Expert Belt: Earth Power, Ice Beam, Sludge Bomb, Thunderbolt {Timid/Sheer Force}
+Honchkrow Lv.45 @Scope Lens: Drill Peck, Sucker Punch, Night Slash, Heat Wave {Jolly/Super Luck}
+Infernape Lv.45 @Focus Sash: Swords Dance, Pyro Ball, Thunder Punch, Close Combat {Jolly/Iron Fist}
+Rotom Lv.46 @Eviolite: Pain Split, Will-O-Wisp, Shadow Ball, Volt Switch {Timid/Levitate}
+Kangaskhan-Mega Lv.46 @Kangaskhanite: Power-Up Punch, Body Slam, Crunch, Fake Out {Adamant/Parental Bond}
+~Pkmn Tower
+*Ghost [Omniboosted]
+Marowak-Alola Lv.58 @Thick Club: Bonemerang, Shadow Bone, Fire Punch, Thunder Punch {Jolly/Bone Zone}
+~Silph Co.
+*Rival 3 [Grass]
+Staraptor Lv.54 @Sharp Beak: Brave Bird, Quick Attack, Close Combat, U-turn {Jolly/Intimidate}
+Jumpluff Lv.55 @Sharp Beak: Sleep Powder, Double-Edge, Seed Bomb, Swords Dance {Jolly/Aerilate}
+Azumarill Lv.55 @Mystic Water: Play Rough, Liquidation, Aqua Jet, Ice Punch {Adamant/Huge Power}
+Electivire Lv.55 @Expert Belt: Plasma Fists, Close Combat, Ice Punch, Mach Punch {Jolly/Iron Fist}
+Charizard-Mega-Y Lv.55 @Charizardite Y: Flamethrower, Solar Beam, Air Slash, Dragon Pulse {Timid/Drought}
+*Rival 3 [Fire]
+Staraptor Lv.54 @Sharp Beak: Brave Bird, Quick Attack, Close Combat, U-turn {Jolly/Intimidate}
+Jumpluff Lv.55 @Sharp Beak: Sleep Powder, Double-Edge, Seed Bomb, Swords Dance {Jolly/Aerilate}
+Darmanitan Lv.55 @Charcoal: Flare Blitz, Rock slide, U-turn, Earthquake {Jolly/Sheer Force}
+Electivire Lv.55 @Expert Belt: volt Switch, Close Combat, Ice Punch, Mach Punch {Jolly/Iron Fist}
+Blastoise-Mega Lv.55 @Blastoisinite: Shell Smash, Water Pulse, Aura Sphere, Ice beam {Modest/Mega Launcher}
+*Rival 3 [Water]
+Staraptor Lv.54 @Sharp Beak: Brave Bird, Quick Attack, Close Combat, U-turn {Jolly/Intimidate}
+Azumarill Lv.55 @Mystic Water: Play Rough, Liquidation, Aqua Jet, Ice Punch {Adamant/Huge Power}
+Darmanitan Lv.55 @Charcoal: Flare Blitz, Rock slide, U-turn, Earthquake {Jolly/Sheer Force}
+Electivire Lv.55 @Expert Belt: Plasma Fists, Close Combat, Ice Punch, Mach Punch {Jolly/Iron Fist}
+Venusaur-Mega Lv.55 @Venusaurite: Sleep Powder, Giga Drain, Sludge bomb, Earth Power {Modest/Thick Fat}
+*Archer Tag
+Gothitelle Lv.54 @Colbur Berry: Psychic, Shadow Ball, Hidden Power Fighting, Thunder Wave {Modest/Competitive}
+Aegislash Lv.55 @Leftovers: Iron Head, Shadow Claw, Shadow Sneak, King's Shield {Adamant/Stance Change}
+Houndoom-Mega Lv.55 @Houndoomite: Heat Wave, Dark Pulse, Scorching Sands, Sucker Punch {Timid/Dark Aura}
+*Ariana Tag 
+Incineroar Lv.54 @Sitrus Berry: Fake Out, Parting Shot, Darkest Lariat, Fire Punch {Adamant/Intimidate}
+Primarina Lv.55 @Throat Spray: Hyper Voice, Scald, Psychic, Dazzling Gleam {Modest/Liquid Voice}
+Mawile-Mega Lv.55 @Mawilite: Play Rough, Sucker Punch, Iron Head, Thunder Punch {Adamant/Huge Power}
+*Brendan Tag
+Masquerain Lv.55 @Iapapa Berry: Bug Buzz, Scald, Giga Drain, Stun Spore {Modest/Intimidate}
+Exploud Lv.55 @Silk Scarf: Flamethrower, Surf, Focus Blast, Hyper Voice {Timid/Punk Rock}
+Sceptile Lv.55 @Sceptilite: Mega Drain, Dragon Breath, Focus Blast, Hidden Power Fire {Timid/Technician}
+*Giovanni 2
+Hippowdon Lv.54 @Smooth Rock: Earthquake, Rock Slide, Stealth Rock, Roar {Adamant/Sand Stream}
+Polteageist Lv.55 @White Herb: Shell Smash, Shadow Ball, Giga Drain, Stored Power {Modest/Weak Armor}
+Excadrill Lv.55 @Focus Sash: Earthquake, Iron Head, Rock Slide, Swords Dance {Adamant/Sand Rush}
+Garchomp Lv.56 @Yache Berry: Earthquake, Scale Shot, Rock Slide, Swords Dance {Jolly/Sand Veil}
+Kangaskhan Lv.56 @Kangaskhanite: Power-Up Punch, Body Slam, Crunch, Fake Out {Jolly/Parental Bond}
+~Saffron City
+*Sabrina
+Hatterene Lv.57 @Psychic Seed: Trick Room, Expanding Force, Draining Kiss, Mystical Fire {Relaxed/Magic Bounce}
+Indeedee Lv.57 @Terrain Extender: Expanding Force, Hyper Voice, Mystical Fire {Quiet/Psychic Surge}
+Crawdaunt Lv.58 @Focus Sash: Knock Off, Liquidation, Aqua Jet, Brick Break {Brave/Adaptability}
+Ursaluna Lv.59 @Flame Orb: Protect, High Horsepower, Facade, Crunch {Brave/Guts}
+Porygon2 Lv.58 @Eviolite: Trick Room, Teleport, Ice Beam, Thunderbolt {Bold/Trace}
+Gardevoir Lv.59 @Gardevoirite: Hyper Voice, Expanding Force, Shadow Ball, Trick Room {Timid/Pixilate}
+~Fuchia City
+*Koga
+Swellow Lv.67 @Choice Specs: Boomburst, U-turn {Timid/Aerialate}
+Accelgor Lv.68 @Life Orb: Bug Buzz, U-turn, Focus Blast, Sludge Bomb {Timid/Sheer Force}
+Drapion Lv.68 @Choice Scarf: Wicked Blow, Cross Poison {Jolly/Sniper}
+Greninja Lv.68 @Life Orb: Surf, Water Shuriken, Dark Pulse, Ice Beam {Timid/Battle Bond}
+Dragapult Lv.68 @Life Orb: Shadow Ball, Flamethrower, Dragon Pulse, U-turn {Timid/Infiltrator}
+Toxtricity-Mega Lv.68 @Toxtricitite: Volt Switch, Boomburst, Sludge Bomb, Overdrive {Timid/Punk Rock}
+~Cinnabar Island
+*Blaine
+Torkoal Lv.75 @Heat Rock: Stealth Rock, Explosion, Lava Plume, Earth Power {Quiet/Drought}
+Sunflora Lv.76 @Life Orb: Seed Flare, Flamethrower, Earth Power, Sunny Day {Timid/Chlorophyll}
+Cinderace Lv.75 @Life Orb: Pyro Ball, Sucker Punch, High Jump Kick, Zen Headbutt {Jolly/Protean}
+Typhlosion Lv.76 @Heavy-Duty Boots: Eruption, Flamethrower, Hidden Power Ice, Focus Blast {Modest/Blazing Soul}
+Exeggutor Lv.76 @Focus Sash: Growth, Giga Drain, Psyshock, Weather Ball {Timid/Harvest}
+Charizard-Mega-Y Lv.76 @Charizardite Y: Flamethrower, Air Slash, Solar Beam, Dragon Pulse {Timid/Drought}
+~Viridian City
+*Clair
+Aerodactyl Lv.80 @Focus Sash: Stealth Rock, Stone Edge, Earthquake, Taunt {Jolly/Pressure}
+Magearna Lv.81 @Leftovers: Shift Gear, Fleur Cannon, Flash Cannon, Aura Sphere {Modest/Soul-Heart}
+Dracovish Lv.80 @Choice Scarf: Fishous Rend, Psychic Fangs, Outrage, Crunch {Adamant/Strong Jaw}
+Dragonite Lv.80 @Weakness Policy: Extreme Speed, Dragon Dance, Fire Punch, Dual Wingbeat {Adamant/Multiscale}
+Naganadel Lv.81 @Life Orb: Nasty Plot, Sludge Wave, Draco Meteor, Flamethrower {Timid/Beast Boost}
+Duraludon-Mega Lv.81 @Duraldite: Draco Meteor, Steel Beam, Thunderbolt, Dark Pulse {Timid/Bad Company}
+
