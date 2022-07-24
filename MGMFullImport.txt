@@ -412,7 +412,7 @@ Bashful Nature
 
 Bugsy [Pre-Surge] - Route 25 (Ariados) @ Poison Barb
 Ability: Swarm
-Level: Scale
+Level: 32
 Adamant Nature
 - Shadow Sneak
 - Fell Stinger
@@ -421,7 +421,7 @@ Adamant Nature
 
 Bugsy [Pre-Surge] - Route 25 (Scyther) @ Charti Berry
 Ability: Technician
-Level: Scale
+Level: 32
 Bashful Nature
 - Bug Bite
 - Aerial Ace
@@ -430,7 +430,7 @@ Bashful Nature
 
 Bugsy [Pre-Surge] - Route 25 (Ledian) @ Focus Sash
 Ability: Iron First
-Level: Scale
+Level: 32
 Bashful Nature
 - Drain Punch
 - Ice Punch
@@ -439,7 +439,7 @@ Bashful Nature
 
 Bugsy [Pre-Surge] - Route 25 (Scizor) @ Sitrus Berry
 Ability: Technician
-Level: Scale
+Level: 32
 Bashful Nature
 - Bullet Punch
 - U-turn
@@ -448,7 +448,7 @@ Bashful Nature
 
 Bugsy [Post-Surge] - Route 25 (Kleavor) @ Focus Sash
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Stealth Rock
 - Rock Blast
@@ -457,7 +457,7 @@ Jolly Nature
 
 Bugsy [Post-Surge] - Route 25 (Araquanid) @ Leftovers
 Ability: Water Bubble
-Level: Scale
+Level: Scale-2
 Impish Nature
 - X-Scissor
 - Liquidation
@@ -466,7 +466,7 @@ Impish Nature
 
 Bugsy [Post-Surge] - Route 25 (Scizor-Mega) @ Scizorite
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Careful Nature
 - Bullet Punch
 - Dual Wingbeat
@@ -475,7 +475,7 @@ Careful Nature
 
 Bugsy [Post-Surge] - Route 25 (Scyther) @ Eviolite
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Swords Dance
 - Dual Wingbeat
@@ -484,7 +484,7 @@ Adamant Nature
 
 Bugsy [Post-Surge] - Route 25 (Heracross) @ Occa Berry
 Ability: Moxie
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Megahorn
 - Close Combat
@@ -493,7 +493,7 @@ Jolly Nature
 
 Bugsy [Post-Surge] - Route 25 (Vikavolt) @ Magnet
 Ability: Levitate
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Thunder
 - Bug Buzz
@@ -502,7 +502,7 @@ Modest Nature
 
 Whitney - Route 11 (Wigglytuff) @ Sitrus Berry
 Ability: Sheer Force
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Drain Punch
 - Fire Punch
@@ -511,7 +511,7 @@ Adamant Nature
 
 Whitney - Route 11 (Miltank) @ Leftovers
 Ability: Thick Fat
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Body Slam
 - Body Press
@@ -520,7 +520,7 @@ Adamant Nature
 
 Whitney - Route 11 (Vigoroth) @ Eviolite
 Ability: Vital Spirit
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Bulk Up
 - Slack Off
@@ -529,7 +529,7 @@ Jolly Nature
 
 Whitney - Route 11 (Indeedee) @ Twisted Spoon
 Ability: Psychic Surge
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Psyshock
 - Hyper Voice
@@ -538,7 +538,7 @@ Timid Nature
 
 Whitney - Route 11 (Drampa) @ Leftovers
 Ability: Berserk
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Dragon Breath
 - Roost
@@ -727,7 +727,7 @@ Modest Nature
 
 Picnicker Caitlin - Route 9 (Smeargle) @ Choice Scarf
 Ability: Own Tempo
-Level: Scale
+Level: 32
 Jolly Nature
 - V-create
 - Dragon Ascent
@@ -736,25 +736,25 @@ Jolly Nature
 
 Picnicker Caitlin - Route 9 (Spinda) 
 Ability: Contrary
-Level: Scale
+Level: 31
 Jolly Nature
 - Assist
 
 Picnicker Caitlin - Route 9 (Sneasel-Hisui) @ Eviolite
 Ability: Inner Focus
-Level: Scale
+Level: 30
 Bashful Nature
 - Assist
 
 Picnicker Caitlin - Route 9 (Liepard) @ Focus Sash
 Ability: Prankster
-Level: Scale
+Level: 30
 Bashful Nature
 - Assist
 
 Morty - Lavender Town (Mimikyu) @ Lum Berry
 Ability: Disguise
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Play Rough
 - Shadow Claw
@@ -763,7 +763,7 @@ Jolly Nature
 
 Morty - Lavender Town (Zoroark) @ Colbur Berry
 Ability: Illusion
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Hyper Voice
 - Shadow Ball
@@ -772,7 +772,7 @@ Timid Nature
 
 Morty - Lavender Town (Dusknoir) @ Reaper Cloth
 Ability: Hustle
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Shadow Punch
 - Shadow Sneak
@@ -781,7 +781,7 @@ Adamant Nature
 
 Morty - Lavender Town (Gengar-Mega) @ Gengarite
 Ability: Shadow Tag
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Shadow Ball
 - Sludge Wave
@@ -790,7 +790,7 @@ Timid Nature
 
 Morty - Lavender Town (Weavile) @ Focus Sash
 Ability: Infiltrator
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Triple Axel
 - Knock Off
@@ -799,7 +799,7 @@ Jolly Nature
 
 Morty - Lavender Town (Typhlosion-Hisui) @ Charcoal
 Ability: Flash Fire
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Flamethrower
 - Infernal Parade
@@ -1379,7 +1379,7 @@ Timid Nature
 
 Brock (Rematch) - Pewter City (Gigalith) @ Smooth Rock
 Ability: Sand Stream
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Stealth Rock
 - Stone Edge
@@ -1388,7 +1388,7 @@ Adamant Nature
 
 Brock (Rematch) - Pewter City (Tyranitar) @ Weakness Policy
 Ability: Sand Stream
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Stone Edge
 - Fire Punch
@@ -1397,7 +1397,7 @@ Jolly Nature
 
 Brock (Rematch) - Pewter City (Lycanroc) @ Life Orb
 Ability: Tough Claws
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Accelerock
 - Stone Edge
@@ -1406,7 +1406,7 @@ Jolly Nature
 
 Brock (Rematch) - Pewter City (Omastar) @ Power Herb
 Ability: Battle Armor
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Shell Smash
 - Meteor Beam
@@ -1415,7 +1415,7 @@ Modest Nature
 
 Brock (Rematch) - Pewter City (Sandslash) @ Soft Sand
 Ability: Sand Rush
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Swords Dance
 - Earthquake
@@ -1424,7 +1424,7 @@ Adamant Nature
 
 Brock (Rematch) - Pewter City (Aerodactyl-Mega) @ Aerodactylite
 Ability: Tough Claws
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Stone Edge
 - Earthquake
@@ -1433,7 +1433,7 @@ Jolly Nature
 
 Misty (Rematch) - Cerulean City (Politoed) @ Damp Rock
 Ability: Drizzle
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Scald
 - Ice Beam
@@ -1442,7 +1442,7 @@ Modest Nature
 
 Misty (Rematch) - Cerulean City (Greninja) @ Life Orb
 Ability: Protean
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Dark Pulse
 - Water Shuriken
@@ -1451,7 +1451,7 @@ Timid Nature
 
 Misty (Rematch) - Cerulean City (Gorebyss) @ White Herb
 Ability: Regenerator
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Shell Smash
 - Surf
@@ -1460,7 +1460,7 @@ Modest Nature
 
 Misty (Rematch) - Cerulean City (Kingdra) @ Life Orb
 Ability: Swift Swim
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Dragon Pulse
 - Surf
@@ -1469,7 +1469,7 @@ Modest Nature
 
 Misty (Rematch) - Cerulean City (Inteleon) @ Scope Lens
 Ability: Sniper
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Snipe Shot
 - Dark Pulse
@@ -1478,7 +1478,7 @@ Timid Nature
 
 Misty (Rematch) - Cerulean City (Gyarados-Mega) @ Gyaradosite
 Ability: Mold Breaker
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Dragon Dance
 - Waterfall
@@ -1487,7 +1487,7 @@ Adamant Nature
 
 Lt. Surge (Rematch) - Vermillion City (Pachirisu) @ Light Clay
 Ability: Prankster
-Level: Scale
+Level: Scale-2
 Impish Nature
 - Reflect
 - Light Screen
@@ -1496,7 +1496,7 @@ Impish Nature
 
 Lt. Surge (Rematch) - Vermillion City (Dracozolt) @ Choice Scarf
 Ability: Hustle
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Bolt Beak
 - Dragon Claw
@@ -1505,7 +1505,7 @@ Adamant Nature
 
 Lt. Surge (Rematch) - Vermillion City (Dedenne) @ Terrain Extender
 Ability: Electric Surge
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Rising Voltage
 - Volt Switch
@@ -1514,7 +1514,7 @@ Timid Nature
 
 Lt. Surge (Rematch) - Vermillion City (Rotom-Wash) @ Life Orb
 Ability: Levitate
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Nasty Plot
 - Rising Voltage
@@ -1523,7 +1523,7 @@ Timid Nature
 
 Lt. Surge (Rematch) - Vermillion City (Rotom-Mow) @ Life Orb
 Ability: Levitate
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Thunderbolt
 - Leaf Storm
@@ -1532,7 +1532,7 @@ Timid Nature
 
 Lt. Surge (Rematch) - Vermillion City (Manectric-Mega) @ Manectite
 Ability: Intimidate
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Volt Switch
 - Rising Volt
@@ -1541,7 +1541,7 @@ Timid Nature
 
 Erika (Rematch) - Celadon City (Tsareena) @ Focus Sash
 Ability: Striker
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Triple Axel
 - Trop Kick
@@ -1550,7 +1550,7 @@ Adamant Nature
 
 Erika (Rematch) - Celadon City (Hawlucha) @ Grassy Seed
 Ability: Unburden
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Swords Dance
 - Acrobatics
@@ -1559,7 +1559,7 @@ Adamant Nature
 
 Erika (Rematch) - Celadon City (Bellossom) @ Leftovers
 Ability: Chlorophyll
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Sleep Powder
 - Quiver Dance
@@ -1568,7 +1568,7 @@ Timid Nature
 
 Erika (Rematch) - Celadon City (Rillaboom) @ Grassy Seed
 Ability: Grassy Surge
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Swords Dance
 - Grassy Glide
@@ -1577,7 +1577,7 @@ Timid Nature
 
 Erika (Rematch) - Celadon City (Serperior) @ Focus Sash
 Ability: Contrary
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Leaf Storm
 - Giga Drain
@@ -1586,394 +1586,385 @@ Timid Nature
 
 Erika (Rematch) - Celadon City (Venusaur) @ Venusaurite
 Ability: Thick Fat
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Giga Drain
 - Sludge Bomb
 - Earth Power
 - Synthesis
 
-Chuck (Saffron Dojo) - Celadon City (Hitmontop) @ Focus Sash
+Chuck - Celadon City (Hitmontop) @ Focus Sash
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Triple Kick
 - Triple Axel
 - Brutal Swing
 - Fake Out
 
-Chuck (Saffron Dojo) - Celadon City (Poliwrath) @ Mystic Water
+Chuck - Celadon City (Poliwrath) @ Mystic Water
 Ability: Water Absorb
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Surging Strikes
 - Drain Punch
 - Ice Punch
 - Earthquake
 
-Chuck (Saffron Dojo) - Celadon City (Breloom) @ Toxic Orb
+Chuck - Celadon City (Breloom) @ Toxic Orb
 Ability: Poison Heal
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Spore
 - Substitute
 - Rock Slide
 - Focus Punch
 
-Chuck (Saffron Dojo) - Celadon City (Lucario) @ Shuca Berry
+Chuck - Celadon City (Lucario) @ Shuca Berry
 Ability: Inner Focus
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Bulk Up
 - Extreme Speed
 - Close Combat
 - Meteor Mash
 
-Chuck (Saffron Dojo) - Celadon City (Gallade-Mega) @ Galladite
+Chuck - Celadon City (Gallade-Mega) @ Galladite
 Ability: Inner Focus
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Drain Punch
 - Psycho Cut
 - Bulk Up
 - Night Slash
 
-Chuck (Saffron Dojo) - Celadon City (Sneasler) @ Focus Sash
+Chuck - Celadon City (Sneasler) @ Focus Sash
 Ability: Poison Touch
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Close Combat
 - Poison Jab
 - Knock Off
 - Stone Edge
 
-Pryce - Team 1 - Route 20 (Vanilluxe) @ Light Clay
+Pryce 1 - Route 20 (Vanilluxe) @ Light Clay
 Ability: Snow Warning
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Blizzard
 - Freeze-Dry
 - Ice Shard
 - Flash Cannon
 
-Pryce - Team 1 - Route 20 (Weavile) @ Choice Band
+Pryce 1 - Route 20 (Weavile) @ Choice Band
 Ability: Pressure
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Triple Axel
 - Knock Off
 - Low Kick
 - Ice Shard
 
-Pryce - Team 1 - Route 20 (Crabominable) @ Assault Vest
+Pryce 1 - Route 20 (Crabominable) @ Assault Vest
 Ability: Iron Fist
-Level: Scale
+Level: Scale-2
 Careful Nature
 - Mach Punch
 - Ice Shard
 - Drain Punch
 - Ice Hammer
 
-Pryce - Team 1 - Route 20 (Dewgong) @ Leftovers
+Pryce 1 - Route 20 (Dewgong) @ Leftovers
 Ability: Ice Scales
-Level: Scale
+Level: Scale-2
 Impish Nature
 - Rest
 - Sleep Talk
 - Surf
 - Toxic
 
-Pryce - Team 1 - Route 20 (Arctovish) @ Choice Band
+Pryce 1 - Route 20 (Arctovish) @ Choice Band
 Ability: Slush Rush
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Fishious Rend
 - Icicle Crash
 - Psychic Fangs
 - Icicle Spear
 
-Pryce - Team 1 - Route 20 (Glalie-Mega) @ Glalitite
+Pryce 1 - Route 20 (Glalie-Mega) @ Glalitite
 Ability: Refrigerate
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Double-Edge
 - Earthquake
 - Ice Shard
 - Crunch
 
-Pryce - Team 2 - Route 20 (Jynx) @ Focus Sash
+Pryce 2 - Route 20 (Jynx) @ Focus Sash
 Ability: Dry Skin
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Lovely Kiss
 - Freeze-Dry
 - Psystrike
 - Substitute
 
-Pryce - Team 2 - Route 20 (Mr. Rime) @ Choice Specs
+Pryce 2 - Route 20 (Mr. Rime) @ Choice Specs
 Ability: Screen Cleaner
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Freeze-Dry
 - Psychic
 - Ice Beam
 - Focus Blast
 
-Pryce - Team 2 - Route 20 (Mamoswine) @ Life Orb
+Pryce 2 - Route 20 (Mamoswine) @ Life Orb
 Ability: Thick Fat
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Earthquake
 - Ice Shard
 - Icicle Crash
 - Knock Off
 
-Pryce - Team 2 - Route 20 (Walrein) @ Leftovers
+Pryce 2 - Route 20 (Walrein) @ Leftovers
 Ability: Fur Coat
-Level: Scale
+Level: Scale-2
 Calm Nature
 - Rest
 - Sleep Talk
 - Surf
 - Toxic
 
-Pryce - Team 2 - Route 20 (Arctovish) @ Choice Scarf
+Pryce 2 - Route 20 (Arctovish) @ Choice Scarf
 Ability: Water Absorb
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Fishious Rend
 - Icicle Crash
 - Psychic Fangs
 - Icicle Spear
 
-Pryce - Team 2 - Route 20 (Glalie-Mega) @ Glalitite
+Pryce 2 - Route 20 (Glalie-Mega) @ Glalitite
 Ability: Refrigerate
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Double-Edge
 - Earthquake
 - Ice Shard
 - Crunch
 
-Pryce - Team 3 - Route 20 (Ninetales-Alola) @ Icy Rock
+Pryce 3 - Route 20 (Ninetales-Alola) @ Icy Rock
 Ability: Snow Warning
-Level: Scale
+Level: Scale-2
 Timid Nature
 - Aurora Veil
 - Freeze-Dry
 - Blizzard
 - Moonblast
 
-Pryce - Team 3 - Route 20 (Sandslash-Alola) @ Assault Vest
+Pryce 3 - Route 20 (Sandslash-Alola) @ Assault Vest
 Ability: Ice Scales
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Earthquake
 - Icicle Crash
 - Iron Head
 - Ice Shard
 
-Pryce - Team 3 - Route 20 (Beartic) @ 
+Pryce 3 - Route 20 (Beartic) @ Focus Sash
 Ability: Slush Rush
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Play Rough
 - Triple Axel
 - Superpower
 - Swords Dance
 
-Pryce - Team 3 - Route 20 (Arctozolt) @ Choice Band
+Pryce 3 - Route 20 (Arctozolt) @ Choice Band
 Ability: Slush Rush
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Bolt Beak
 - Icicle Crash
 - Stomping Tantrum
 - Rock Slide
 
-Pryce - Team 3 - Route 20 (Frosmoth) @ Leftovers
+Pryce 3 - Route 20 (Frosmoth) @ Leftovers
 Ability: Ice Scales
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Quiver Dance
 - Ice Beam
 - Bug Buzz
 - Giga Drain
 
-Pryce - Team 3 - Route 20 (Glalie-Mega) @ Glalitite
+Pryce 3 - Route 20 (Glalie-Mega) @ Glalitite
 Ability: Refrigerate
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Double-Edge
 - Earthquake
 - Ice Shard
 - Crunch
 
-Jasmine - Team 1 - Cinnabar Island (Steelix) @ Chople Berry
+Jasmine 1 - Cinnabar Island (Steelix) @ Chople Berry
 Ability: Sturdy
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Stealth Rock
 - Iron Head
 - Earthquake
 - Roar
 
-Jasmine - Team 1 - Cinnabar Island (Melmetal) @ Choice Band
+Jasmine 1 - Cinnabar Island (Melmetal) @ Choice Band
 Ability: Clear Body
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Double Iron Bash
 - Earthquake
 - Superpower
 - Thunder Punch
 
-Jasmine - Team 1 - Cinnabar Island (Aegislash-Blade) @ Leftovers
+Jasmine 1 - Cinnabar Island (Aegislash) @ Leftovers
 Ability: Stance Change
-Level: Scale
+Level: Scale-2
 Rash Nature
 - Shadow Ball
 - Shadow Sneak
 - Close Combat
 - Kings Shield
 
-Jasmine - Team 1 - Cinnabar Island (Aegislash-Shield) @ Leftovers
-Ability: Stance Change
-Level: Scale
-Rash Nature
-- Shadow Ball
-- Shadow Sneak
-- Close Combat
-- Kings Shield
-
-Jasmine - Team 1 - Cinnabar Island (Durant) @ Life Orb
+Jasmine 1 - Cinnabar Island (Durant) @ Life Orb
 Ability: Hustle
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Iron Head
 - Superpower
 - X-Scissor
 - Hone Claws
 
-Jasmine - Team 1 - Cinnabar Island (Duraladon) @ Assault Vest
+Jasmine 1 - Cinnabar Island (Duraludon) @ Assault Vest
 Ability: Light Metal
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Draco Meteor
 - Flash Cannon
 - Thunderbolt
 - Dragon Pulse
 
-Jasmine - Team 1 - Cinnabar Island (Aggron-Mega) @ Aggronite
+Jasmine 1 - Cinnabar Island (Aggron-Mega) @ Aggronite
 Ability: Filter
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Heavy Slam
 - Earthquake
 - Fire Punch
 - Dragon Claw
 
-Jasmine - Team 2 - Cinnabar Island (Bronzong) @ Leftovers
+Jasmine 2 - Cinnabar Island (Bronzong) @ Leftovers
 Ability: Levitate
-Level: Scale
+Level: Scale-2
 Impish Nature
 - Iron Head
 - Earthquake
 - Stealth Rock
 - Explosion
 
-Jasmine - Team 2 - Cinnabar Island (Melmetal) @ Choice Band
+Jasmine 2 - Cinnabar Island (Melmetal) @ Choice Band
 Ability: Clear Body
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Double Iron Bash
 - Earthquake
 - Superpower
 - Thunder Punch
 
-Jasmine - Team 2 - Cinnabar Island (Excadrill) @ Air Balloon
+Jasmine 2 - Cinnabar Island (Excadrill) @ Air Balloon
 Ability: Sand Force
-Level: Scale
+Level: Scale-2
 Jolly Nature
 - Earthquake
 - Rock Slide
 - Iron Head
 - Swords Dance
 
-Jasmine - Team 2 - Cinnabar Island (Magnezone) @ Magnet
+Jasmine 2 - Cinnabar Island (Magnezone) @ Magnet
 Ability: Magnet Pull
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Thunderbolt
 - Volt Switch
 - Flash Cannon
 - Body Press
 
-Jasmine - Team 2 - Cinnabar Island (Scizor) @ Choice Band
+Jasmine 2 - Cinnabar Island (Scizor) @ Choice Band
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - U-turn
 - Dual Wingbeat
 - Bullet Punch
 - Superpower
 
-Jasmine - Team 2 - Cinnabar Island (Aggron-Mega) @ Aggronite
+Jasmine 2 - Cinnabar Island (Aggron-Mega) @ Aggronite
 Ability: Filter
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Heavy Slam
 - Earthquake
 - Fire Punch
 - Dragon Claw
 
-Jasmine - Team 3 - Cinnabar Island (Forretress) @ Leftovers
+Jasmine 3 - Cinnabar Island (Forretress) @ Leftovers
 Ability: Sturdy
-Level: Scale
+Level: Scale-2
 Impish Nature
 - Stealth Rock
 - Explosion
 - Spikes
 - Volt Switch
 
-Jasmine - Team 3 - Cinnabar Island (Melmetal) @ Choice Band
+Jasmine 3 - Cinnabar Island (Melmetal) @ Choice Band
 Ability: Clear Body
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Double Iron Bash
 - Earthquake
 - Superpower
 - Thunder Punch
 
-Jasmine - Team 3 - Cinnabar Island (Magnezone) @ Magnet
+Jasmine 3 - Cinnabar Island (Magnezone) @ Magnet
 Ability: Magnet Pull
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Thunderbolt
 - Volt Switch
 - Flash Cannon
 - Body Press
 
-Jasmine - Team 3 - Cinnabar Island (Metagross) @ Air Balloon
+Jasmine 3 - Cinnabar Island (Metagross) @ Air Balloon
 Ability: Clear Body
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Meteor Mash
 - Earthquake
 - Zen Headbutt
 - Bullet Punch
 
-Jasmine - Team 3 - Cinnabar Island (Lucario) @ Life Orb
+Jasmine 3 - Cinnabar Island (Lucario) @ Life Orb
 Ability: Inner Focus
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Swords Dance
 - Extreme Speed
 - Close Combat
 - Meteor Mash
 
-Jasmine - Team 3 - Cinnabar Island (Aggron-Mega) @ Aggronite
+Jasmine 3 - Cinnabar Island (Aggron-Mega) @ Aggronite
 Ability: Filter
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Heavy Slam
 - Earthquake
@@ -2088,7 +2079,7 @@ Timid Nature
 - Hidden Power Fire
 - Energy Ball
 
-Bruno - Team 1 - Pokemon League (Urshifu-Rapid-Strike) @ Focus Sash
+Bruno 1 - Pokemon League (Urshifu-Rapid-Strike) @ Focus Sash
 Ability: Unseen Fist
 Level: 84
 Jolly Nature
@@ -2097,7 +2088,7 @@ Jolly Nature
 - Aqua Jet
 - U-turn
 
-Bruno - Team 1 - Pokemon League (Scizor) @ Life Orb
+Bruno 1 - Pokemon League (Scizor) @ Life Orb
 Ability: Technician
 Level: 85
 Adamant Nature
@@ -2106,7 +2097,7 @@ Adamant Nature
 - U-turn
 - Swords Dance
 
-Bruno - Team 1 - Pokemon League (Terrakion) @ Choice Scarf
+Bruno 1 - Pokemon League (Terrakion) @ Choice Scarf
 Ability: Justified
 Level: 85
 Jolly Nature
@@ -2115,7 +2106,7 @@ Jolly Nature
 - Earthquake
 - X-Scissor
 
-Bruno - Team 1 - Pokemon League (Zacian-Crowned) @ Rusty Sword
+Bruno 1 - Pokemon League (Zacian-Crowned) @ Rusty Sword
 Ability: Intrepid Sword
 Level: 85
 Jolly Nature
@@ -2124,7 +2115,7 @@ Jolly Nature
 - Close Combat
 - Crunch
 
-Bruno - Team 1 - Pokemon League (Conkeldurr) @ Assault Vest
+Bruno 1 - Pokemon League (Conkeldurr) @ Assault Vest
 Ability: Iron Fist
 Level: 85
 Careful Nature
@@ -2133,7 +2124,7 @@ Careful Nature
 - Mach Punch
 - Knock Off
 
-Bruno - Team 1 - Pokemon League (Lucario-Mega) @ Lucarionite
+Bruno 1 - Pokemon League (Lucario-Mega) @ Lucarionite
 Ability: Adaptability
 Level: 85
 Timid Nature
@@ -2142,7 +2133,7 @@ Timid Nature
 - Vacuum Wave
 - Flash Cannon
 
-Bruno - Team 2 - Pokemon League (Infernape) @ Focus Sash
+Bruno 2 - Pokemon League (Infernape) @ Focus Sash
 Ability: Blaze
 Level: 84
 Jolly Nature
@@ -2151,7 +2142,7 @@ Jolly Nature
 - Stealth Rock
 - Close Combat
 
-Bruno - Team 2 - Pokemon League (Kommo-o) @ Throat Spray
+Bruno 2 - Pokemon League (Kommo-o) @ Throat Spray
 Ability: Overcoat
 Level: 85
 Timid Nature
@@ -2160,7 +2151,7 @@ Timid Nature
 - Aura Sphere
 - Flash Cannon
 
-Bruno - Team 2 - Pokemon League (Urshifu) @ Choice Scarf
+Bruno 2 - Pokemon League (Urshifu) @ Choice Scarf
 Ability: Unseen Fist
 Level: 85
 Jolly Nature
@@ -2169,7 +2160,7 @@ Jolly Nature
 - Wicked Blow
 - Poison Jab
 
-Bruno - Team 2 - Pokemon League (Zacian-Crowned) @ Rusty Sword
+Bruno 2 - Pokemon League (Zacian-Crowned) @ Rusty Sword
 Ability: Intrepid Sword
 Level: 85
 Jolly Nature
@@ -2178,7 +2169,7 @@ Jolly Nature
 - Close Combat
 - Crunch
 
-Bruno - Team 2 - Pokemon League (Conkeldurr) @ Assault Vest
+Bruno 2 - Pokemon League (Conkeldurr) @ Assault Vest
 Ability: Iron Fist
 Level: 85
 Careful Nature
@@ -2187,7 +2178,7 @@ Careful Nature
 - Mach Punch
 - Knock Off
 
-Bruno - Team 2 - Pokemon League (Lucario-Mega) @ Lucarionite
+Bruno 2 - Pokemon League (Lucario-Mega) @ Lucarionite
 Ability: Adaptability
 Level: 85
 Jolly Nature
@@ -2196,7 +2187,7 @@ Jolly Nature
 - Close Combat
 - Swords Dance
 
-Agatha - Team 1 - Pokemon League (Zoroark) @ Focus Sash
+Agatha 1 - Pokemon League (Zoroark) @ Focus Sash
 Ability: Illusion
 Level: 84
 Timid Nature
@@ -2205,7 +2196,7 @@ Timid Nature
 - Flamethrower
 - Sludge Bomb
 
-Agatha - Team 1 - Pokemon League (Spectrier) @ Choice Scarf
+Agatha 1 - Pokemon League (Spectrier) @ Choice Scarf
 Ability: Grim Neigh
 Level: 85
 Timid Nature
@@ -2214,7 +2205,7 @@ Timid Nature
 - Dark Pulse
 - Sleep Talk
 
-Agatha - Team 1 - Pokemon League (Marshadow) @ Focus Sash
+Agatha 1 - Pokemon League (Marshadow) @ Focus Sash
 Ability: Technician
 Level: 85
 Jolly Nature
@@ -2223,7 +2214,7 @@ Jolly Nature
 - Shadow Sneak
 - Bulk Up
 
-Agatha - Team 1 - Pokemon League (Silvally-Dark) @ Leftovers
+Agatha 1 - Pokemon League (Silvally-Dark) @ Leftovers
 Ability: Battle Armor
 Level: 85
 Adamant Nature
@@ -2232,7 +2223,7 @@ Adamant Nature
 - Thunder Wave
 - Parting Shot
 
-Agatha - Team 1 - Pokemon League (Aegislash-Blade) @ Leftovers
+Agatha 1 - Pokemon League (Aegislash) @ Leftovers
 Ability: Stance Change
 Level: 85
 Calm Nature
@@ -2241,16 +2232,7 @@ Calm Nature
 - Flash Cannon
 - Kings Shield
 
-Agatha - Team 1 - Pokemon League (Aegislash-Shield) @ Leftovers
-Ability: Stance Change
-Level: 85
-Calm Nature
-- Shadow Ball
-- Toxic
-- Flash Cannon
-- Kings Shield
-
-Agatha - Team 1 - Pokemon League (Gengar-Mega) @ Gengarite
+Agatha 1 - Pokemon League (Gengar-Mega) @ Gengarite
 Ability: Shadow Tag
 Level: 85
 Timid Nature
@@ -2259,7 +2241,7 @@ Timid Nature
 - Nasty Plot
 - Thunderbolt
 
-Agatha - Team 2 - Pokemon League (Grimmsnarl) @ Light Clay
+Agatha 2 - Pokemon League (Grimmsnarl) @ Light Clay
 Ability: Prankster
 Level: 84
 Adamant Nature
@@ -2268,7 +2250,7 @@ Adamant Nature
 - Reflect
 - Light Screen
 
-Agatha - Team 2 - Pokemon League (Spectrier) @ Choice Scarf
+Agatha 2 - Pokemon League (Spectrier) @ Choice Scarf
 Ability: Grim Neigh
 Level: 85
 Timid Nature
@@ -2277,7 +2259,7 @@ Timid Nature
 - Dark Pulse
 - Sleep Talk
 
-Agatha - Team 2 - Pokemon League (Marshadow) @ Focus Sash
+Agatha 2 - Pokemon League (Marshadow) @ Focus Sash
 Ability: Technician
 Level: 85
 Jolly Nature
@@ -2286,7 +2268,7 @@ Jolly Nature
 - Shadow Sneak
 - Bulk Up
 
-Agatha - Team 2 - Pokemon League (Dragapult) @ Life Orb
+Agatha 2 - Pokemon League (Dragapult) @ Life Orb
 Ability: Cursed Body
 Level: 85
 Timid Nature
@@ -2295,7 +2277,7 @@ Timid Nature
 - Steel Wing
 - Phantom Force
 
-Agatha - Team 2 - Pokemon League (Hydreigon) @ Leftovers
+Agatha 2 - Pokemon League (Hydreigon) @ Leftovers
 Ability: Levitate
 Level: 85
 Timid Nature
@@ -2304,7 +2286,7 @@ Timid Nature
 - Dragon Pulse
 - Flamethrower
 
-Agatha - Team 2 - Pokemon League (Gengar-Mega) @ Gengarite
+Agatha 2 - Pokemon League (Gengar-Mega) @ Gengarite
 Ability: Shadow Tag
 Level: 85
 Timid Nature
@@ -2313,7 +2295,7 @@ Timid Nature
 - Nasty Plot
 - Thunderbolt
 
-Lance - Team 1 - Pokemon League (Aerodactyl) @ Focus Sash
+Lance 1 - Pokemon League (Aerodactyl) @ Focus Sash
 Ability: Rock Head
 Level: 85
 Jolly Nature
@@ -2322,7 +2304,7 @@ Jolly Nature
 - Taunt
 - Stone Edge
 
-Lance - Team 1 - Pokemon League (Melmetal) @ Assault Vest
+Lance 1 - Pokemon League (Melmetal) @ Assault Vest
 Ability: Clear Body
 Level: 85
 Adamant Nature
@@ -2331,7 +2313,7 @@ Adamant Nature
 - Thunder Punch
 - Ice Punch
 
-Lance - Team 1 - Pokemon League (Dialga-Primal) @ Adamant Orb
+Lance 1 - Pokemon League (Dialga-Primal) @ Adamant Orb
 Ability: Primal Armor
 Level: 85
 Calm Nature
@@ -2340,7 +2322,7 @@ Calm Nature
 - Rest
 - Sleep Talk
 
-Lance - Team 1 - Pokemon League (Dracovish) @ Choice Scarf
+Lance 1 - Pokemon League (Dracovish) @ Choice Scarf
 Ability: Strong Jaw
 Level: 85
 Adamant Nature
@@ -2349,7 +2331,7 @@ Adamant Nature
 - Psychic Fangs
 - Crunch
 
-Lance - Team 1 - Pokemon League (Dragonite) @ Choice Band
+Lance 1 - Pokemon League (Dragonite) @ Choice Band
 Ability: Multiscale
 Level: 85
 Jolly Nature
@@ -2358,7 +2340,7 @@ Jolly Nature
 - Dual Wingbeat
 - Earthquake
 
-Lance - Team 1 - Pokemon League (Salamence-Mega) @ Salamencite
+Lance 1 - Pokemon League (Salamence-Mega) @ Salamencite
 Ability: Aerialate
 Level: 85
 Jolly Nature
@@ -2367,7 +2349,7 @@ Jolly Nature
 - Earthquake
 - Fire Fang
 
-Lance - Team 2 - Pokemon League (Garchomp) @ Focus Sash
+Lance 2 - Pokemon League (Garchomp) @ Focus Sash
 Ability: Rough Skin
 Level: 85
 Jolly Nature
@@ -2376,7 +2358,7 @@ Jolly Nature
 - Stone Edge
 - Roar
 
-Lance - Team 2 - Pokemon League (Dragonite) @ Lum Berry
+Lance 2 - Pokemon League (Dragonite) @ Lum Berry
 Ability: Multiscale
 Level: 85
 Jolly Nature
@@ -2385,7 +2367,7 @@ Jolly Nature
 - Dual Wingbeat
 - Earthquake
 
-Lance - Team 2 - Pokemon League (Dracozolt) @ Choice Scarf
+Lance 2 - Pokemon League (Dracozolt) @ Choice Scarf
 Ability: Hustle
 Level: 85
 Jolly Nature
@@ -2394,7 +2376,7 @@ Jolly Nature
 - Earthquake
 - Flamethrower
 
-Lance - Team 2 - Pokemon League (Melmetal) @ Assault Vest
+Lance 2 - Pokemon League (Melmetal) @ Assault Vest
 Ability: Iron Fist
 Level: 85
 Adamant Nature
@@ -2403,7 +2385,7 @@ Adamant Nature
 - Thunder Punch
 - Ice Punch
 
-Lance - Team 2 - Pokemon League (Dialga-Primal) @ Adamant Orb
+Lance 2 - Pokemon League (Dialga-Primal) @ Adamant Orb
 Ability: Primal Armor
 Level: 85
 Bold Nature
@@ -2412,7 +2394,7 @@ Bold Nature
 - Rest
 - Sleep Talk
 
-Lance - Team 2 - Pokemon League (Salamence-Mega) @ Salamencite
+Lance 2 - Pokemon League (Salamence-Mega) @ Salamencite
 Ability: Aerialate
 Level: 85
 Jolly Nature
@@ -2634,7 +2616,7 @@ Insomnia Nature
 - Flamethrower
 
 Dumbass Kid - Saffron City (Swampert) @ Rindo Berry
-Level: Scale
+Level: Scale-2
 - Stealth Rock
 - Flip Turn
 - Liquidation
@@ -2642,7 +2624,7 @@ Level: Scale
 
 Dumbass Kid - Saffron City (Scizor) @ Metal Coat
 Ability: Technician
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Swords Dance
 - U-turn
@@ -2651,7 +2633,7 @@ Adamant Nature
 
 Dumbass Kid - Saffron City (Pelliper) @ Damp Rock
 Ability: Drizzle
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Surf
 - Hurricane
@@ -2660,7 +2642,7 @@ Modest Nature
 
 Dumbass Kid - Saffron City (Seaking) @ Choice Band
 Ability: Rain Dish
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Fishious Rend
 - Megahorn
@@ -2668,7 +2650,7 @@ Adamant Nature
 
 Dumbass Kid - Saffron City (Frosmoth) @ Leftovers
 Ability: Ice Scales
-Level: Scale
+Level: Scale-2
 Modest Nature
 - Quiver Dance
 - Ice Beam
@@ -2677,7 +2659,7 @@ Modest Nature
 
 Dumbass Kid - Saffron City (Swampert-Mega) @ Swampertite
 Ability: Swift Swim
-Level: Scale
+Level: Scale-2
 Adamant Nature
 - Liquidation
 - Earthquake
@@ -2686,7 +2668,7 @@ Adamant Nature
 
 Brendan 3 - Safari Zone (Metagross) @ Air Balloon
 Ability: Clear Body
-Level: Scale
+Level: 66
 Jolly Nature
 - Stealth Rock
 - Meteor Mash
@@ -2695,7 +2677,7 @@ Jolly Nature
 
 Brendan 3 - Safari Zone (Crawdaunt) @ Choice Band
 Ability: Adaptability
-Level: Scale
+Level: 66
 Adamant Nature
 - Aqua Jet
 - Liquidation
@@ -2704,7 +2686,7 @@ Adamant Nature
 
 Brendan 3 - Safari Zone (Gardevoir) @ Pixie Plate
 Ability: Trace
-Level: Scale
+Level: 66
 Timid Nature
 - Focus Blast
 - Moonblast
@@ -2713,7 +2695,7 @@ Timid Nature
 
 Brendan 3 - Safari Zone (Exploud) @ Silk Scarf
 Ability: Punk Rock
-Level: Scale
+Level: 66
 Timid Nature
 - Boomburst
 - Surf
@@ -2722,7 +2704,7 @@ Timid Nature
 
 Brendan 3 - Safari Zone (Sceptile-Mega) @ Sceptilite
 Ability: Technician
-Level: Scale
+Level: 66
 Jolly Nature
 - Swords Dance
 - Bullet Seed
@@ -2731,7 +2713,7 @@ Jolly Nature
 
 Brendan 3 - Safari Zone (Medicham) @ Choice Scarf
 Ability: Huge Power
-Level: Scale
+Level: 66
 Adamant Nature
 - Psycho Cut
 - Close Combat
@@ -2794,7 +2776,7 @@ Adamant Nature
 
 Ketchup - Cerulean Cave (Azumarill) @ Assault Vest
 Ability: Huge Power
-Level: Scale
+Level: 83
 Adamant Nature
 - Liquidation
 - Aqua Jet
@@ -2803,7 +2785,7 @@ Adamant Nature
 
 Ketchup - Cerulean Cave (Aggron-Mega) @ Aggronite
 Ability: Solid Rock
-Level: Scale
+Level: 83
 Careful Nature
 - Curse
 - Heavy Slam
@@ -2812,7 +2794,7 @@ Careful Nature
 
 Ketchup - Cerulean Cave (Urshifu) @ Choice Band
 Ability: Unseen Fist
-Level: Scale
+Level: 83
 Jolly Nature
 - Wicked Blow
 - Close Combat
@@ -2821,7 +2803,7 @@ Jolly Nature
 
 Ketchup - Cerulean Cave (Urshifu-Rapid-Strike) @ Choice Band
 Ability: Unseen Fist
-Level: Scale
+Level: 83
 Jolly Nature
 - Surging Strikes
 - Aqua Jet
@@ -2830,7 +2812,7 @@ Jolly Nature
 
 Ketchup - Cerulean Cave (Gliscor) @ Toxic Orb
 Ability: Poison Heal
-Level: Scale
+Level: 83
 Adamant Nature
 - Swords Dance
 - Earthquake
@@ -2839,7 +2821,7 @@ Adamant Nature
 
 Ketchup - Cerulean Cave (Dracozolt) @ Choice Scarf
 Ability: Hustle
-Level: Scale
+Level: 83
 Jolly Nature
 - Bolt Beak
 - Dragon Claw
@@ -3062,18 +3044,9 @@ Jolly Nature
 - Bullet Seed
 - Earthquake
 
-Dumbass Jojo Fan - Power Plant (Aegislash-Blade) @ Leftovers
+Dumbass Jojo Fan - Power Plant (Aegislash) @ Leftovers
 Ability: Stance Change
-Level: Scale
-Modest Nature
-- Shadow Ball
-- Shadow Sneak
-- Flash Cannon
-- Kings Shield
-
-Dumbass Jojo Fan - Power Plant (Aegislash-Shield) @ Leftovers
-Ability: Stance Change
-Level: Scale
+Level: 83
 Modest Nature
 - Shadow Ball
 - Shadow Sneak
@@ -3082,7 +3055,7 @@ Modest Nature
 
 Dumbass Jojo Fan - Power Plant (Simisear) @ Choice Scarf
 Ability: Sage Power
-Level: Scale
+Level: 83
 Modest Nature
 - Flamethrower
 - Hidden Power Ice
@@ -3091,16 +3064,16 @@ Modest Nature
 
 Dumbass Jojo Fan - Power Plant (Ferrothorn) @ Rocky Helmet
 Ability: Iron Barbs
-Level: Scale
+Level: 83
 Impish Nature
 - Leech Seed
 - Power Whip
 - Thunder Wave
 - Body Press
 
-Dumbass Jojo Fan - Power Plant (Hoopa-Unbound) @ 
+Dumbass Jojo Fan - Power Plant (Hoopa-Unbound) @ Choice Band
 Ability: Magician
-Level: Scale
+Level: 83
 Jolly Nature
 - Hyperspace Fury
 - Drain Punch
@@ -3109,7 +3082,7 @@ Jolly Nature
 
 Dumbass Jojo Fan - Power Plant (Machamp-Mega) @ Machampite
 Ability: ORAORAORAORA
-Level: Scale
+Level: 83
 Adamant Nature
 - Power-Up Punch
 - Bullet Punch
@@ -3118,7 +3091,7 @@ Adamant Nature
 
 Dumbass Jojo Fan - Power Plant (Celebi) @ Life Orb
 Ability: Natural Cure
-Level: Scale
+Level: 83
 Timid Nature
 - Nasty Plot
 - Giga Drain
@@ -3127,7 +3100,7 @@ Timid Nature
 
 Biker Lao - Route 16 (Mienshao) @ Life Orb
 Ability: Inner Focus
-Level: Scale
+Level: 64
 Jolly Nature
 - Fake Out
 - Close Combat
@@ -3136,7 +3109,7 @@ Jolly Nature
 
 Biker Lao - Route 16 (Heliolisk) @ Focus Sash
 Ability: Sand Veil
-Level: Scale
+Level: 64
 Timid Nature
 - Volt Switch
 - Boomburst
@@ -3145,7 +3118,7 @@ Timid Nature
 
 Biker Lao - Route 16 (Dugtrio-Alola) @ Life Orb
 Ability: Sand Force
-Level: Scale
+Level: 64
 Naive Nature
 - Earthquake
 - Iron Head
@@ -3154,7 +3127,7 @@ Naive Nature
 
 Cue Ball Koji - Route 16 (Kingler) @ Life Orb
 Ability: Sheer Force
-Level: Scale
+Level: 64
 Jolly Nature
 - Liquidation
 - Meteor Mash
@@ -3163,7 +3136,7 @@ Jolly Nature
 
 Cue Ball Koji - Route 16 (Dracozolt) @ Magnet
 Ability: Sand Rush
-Level: Scale
+Level: 64
 Jolly Nature
 - Bolt Beak
 - Dragon Claw
@@ -3172,7 +3145,7 @@ Jolly Nature
 
 Cue Ball Luke - Route 16 (Dugtrio) @ Life Orb
 Ability: Arena Trap
-Level: Scale
+Level: 64
 Jolly Nature
 - Earthquake
 - Stone Edge
@@ -3181,7 +3154,7 @@ Jolly Nature
 
 Cue Ball Luke - Route 16 (Hariyama) @ Assault Vest
 Ability: Thick Fat
-Level: Scale
+Level: 64
 Careful Nature
 - Fake Out
 - Knock Off
@@ -3190,7 +3163,7 @@ Careful Nature
 
 Biker Ruben - Route 16 (Accelgor) @ Life Orb
 Ability: Sheer Force
-Level: Scale-4
+Level: 64
 Timid Nature
 - U-turn
 - Bug Buzz
@@ -3199,7 +3172,7 @@ Timid Nature
 
 Biker Ruben - Route 16 (Gigalith) @ Assault Vest
 Ability: Sand Force
-Level: Scale-4
+Level: 64
 Careful Nature
 - Earthquake
 - Stone Edge
@@ -3208,7 +3181,7 @@ Careful Nature
 
 Biker Ruben - Route 16 (Excadrill) @ Air Balloon
 Ability: Sand Rush
-Level: Scale-4
+Level: 64
 Adamant Nature
 - Earthquake
 - Iron Head
@@ -3217,7 +3190,7 @@ Adamant Nature
 
 Biker Ruben - Route 16 (Lopunny-Mega) @ Lopunnite
 Ability: Scrappy
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Fake Out
 - Return
@@ -3226,7 +3199,7 @@ Jolly Nature
 
 Biker Ruben - Route 16 (Roserade) @ Technician
 Ability: Technician
-Level: Scale-4
+Level: 64
 Timid Nature
 - Giga Drain
 - Weather Ball
@@ -3235,7 +3208,7 @@ Timid Nature
 
 Cue Ball Camron - Route 16 (Swampert) @ Leftovers
 Ability: Damp
-Level: Scale-4
+Level: 64
 Sassy Nature
 - Stealth Rock
 - Flip Turn
@@ -3244,7 +3217,7 @@ Sassy Nature
 
 Cue Ball Camron - Route 16 (Aerodactyl) @ Life Orb
 Ability: Rock Head
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Dual Wingbeat
 - Stone Edge
@@ -3253,7 +3226,7 @@ Jolly Nature
 
 Cue Ball Camron - Route 16 (Scizor-Mega) @ Scizorite
 Ability: Adamant
-Level: Scale-4
+Level: 64
 Adamant Nature
 - U-turn
 - Bullet Punch
@@ -3262,7 +3235,7 @@ Adamant Nature
 
 Cue Ball Camron - Route 16 (Garchomp) @ Focus Sash
 Ability: Sand Veil
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Swords Dance
 - Earthquake
@@ -3271,7 +3244,7 @@ Jolly Nature
 
 Cue Ball Camron - Route 16 (Cacturne) @ Life Orb
 Ability: Sand Rush
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Needle Arm
 - Sucker Punch
@@ -3280,7 +3253,7 @@ Jolly Nature
 
 Biker Hideo - Route 16 (Stunfisk) @ Focus Sash
 Ability: Sand Veil
-Level: Scale-4
+Level: 64
 Calm Nature
 - Stealth Rock
 - Thunder Wave
@@ -3289,7 +3262,7 @@ Calm Nature
 
 Biker Hideo - Route 16 (Dracovish) @ Mystic Water
 Ability: Sand Rush
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Fishious Rend
 - Dragon Claw
@@ -3298,7 +3271,7 @@ Jolly Nature
 
 Biker Hideo - Route 16 (Beedrill-Mega) @ Beedrillite
 Ability: Adaptability
-Level: Scale-4
+Level: 64
 Jolly Nature
 - U-turn
 - Drill Run
@@ -3307,7 +3280,7 @@ Jolly Nature
 
 Biker Hideo - Route 16 (Greninja) @ Life Orb
 Ability: Protean
-Level: Scale-4
+Level: 64
 Naive Nature
 - U-turn
 - Hydro Pump
@@ -3316,7 +3289,7 @@ Naive Nature
 
 Biker Hideo - Route 16 (Rotom-Heat) @ Charti Berry
 Ability: Levitate
-Level: Scale-4
+Level: 64
 Timid Nature
 - Volt Switch
 - Flamethrower
@@ -3325,7 +3298,7 @@ Timid Nature
 
 Biker William - Route 18 (Magnezone) @ Custap Berry
 Ability: Sturdy
-Level: Scale-4
+Level: 64
 Naive Nature
 - Thunder
 - Volt Switch
@@ -3334,7 +3307,7 @@ Naive Nature
 
 Biker William - Route 18 (Bisharp) @ Focus Sash
 Ability: Defiant
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Swords Dance
 - Knock Off
@@ -3343,16 +3316,16 @@ Jolly Nature
 
 Biker William - Route 18 (Whiscash) @ Rindo Berry
 Ability: Water Bubble
-Level: Scale-4
+Level: 64
 Jolly Nature
 - Dragon Dance
 - Waterfall
 - Earthquake
 - Bounce
 
-Biker William - Route 18 (Salamence) @ Yache berry
+Biker William - Route 18 (Salamence) @ Yache Berry
 Ability: Intimidate
-Level: Scale-4
+Level: 64
 Naive Nature
 - Hurricane
 - Dragon Pulse
@@ -3361,7 +3334,7 @@ Naive Nature
 
 Biker William - Route 18 (Starmie) @ Life Orb
 Ability: Analytic
-Level: Scale-4
+Level: 64
 Timid Nature
 - Flip Turn
 - Hydro Pump
@@ -3370,7 +3343,7 @@ Timid Nature
 
 Bird Keeper Jacob - Route 18 (Cramorant) @ Focus Sash
 Ability: Gulp Missile
-Level: Scale
+Level: 66
 Timid Nature
 - Surf
 - Hurricane
@@ -3379,7 +3352,7 @@ Timid Nature
 
 Bird Keeper Jacob - Route 18 (Decidueye) @ Tinted Lens
 Ability: Tinted Lens
-Level: Scale
+Level: 64
 Naive Nature
 - U-turn
 - Hurricane
@@ -3388,7 +3361,7 @@ Naive Nature
 
 Bird Keeper Jacob - Route 18 (Basculegion) @ Assault Vest
 Ability: Adaptability
-Level: Scale
+Level: 66
 Modest Nature
 - Hydro Pump
 - Ice Beam
@@ -3397,16 +3370,16 @@ Modest Nature
 
 Bird Keeper Jacob - Route 18 (Porygon2) @ Eviolite
 Ability: Trace
-Level: Scale
+Level: 64
 Bold Nature
 - Thunder
 - Ice Beam
 - Foul Play
 - Teleport
 
-Bird Keeper Jacob - Route 18 (Nidoqueen) @ 
+Bird Keeper Jacob - Route 18 (Nidoqueen) @ Life Orb
 Ability: Sheer Force
-Level: Scale
+Level: 65
 Timid Nature
 - Thunder
 - Earth Power
@@ -3415,7 +3388,7 @@ Timid Nature
 
 Dragon Tamer Ramiro - Route 18 (Pikachu-Surfing) @ Focus Sash
 Ability: Lightning Rod
-Level: Scale
+Level: 65
 Timid Nature
 - Bouncy Bubble
 - Thunder
@@ -3424,7 +3397,7 @@ Timid Nature
 
 Dragon Tamer Ramiro - Route 18 (Milotic) @ Sitrus Berry
 Ability: Competitive
-Level: Scale
+Level: 65
 Modest Nature
 - Bouncy Bubble
 - Ice Beam
@@ -3433,7 +3406,7 @@ Modest Nature
 
 Dragon Tamer Ramiro - Route 18 (Goodra-Hisui) @ Assault Vest
 Ability: Gooey
-Level: Scale
+Level: 65
 Timid Nature
 - Surf
 - Dragon Pulse
@@ -3442,7 +3415,7 @@ Timid Nature
 
 Dragon Tamer Ramiro - Route 18 (Lapras-Mega) @ Laprasite
 Ability: Liquid Voice
-Level: Scale
+Level: 65
 Modest Nature
 - Boomburst
 - Dragon Pulse
@@ -3451,7 +3424,7 @@ Modest Nature
 
 Dragon Tamer Ramiro - Route 18 (Dragonite) @ Lum Berry
 Ability: Multiscale
-Level: Scale
+Level: 65
 Modest Nature
 - Hurricane
 - Thunder
@@ -3460,7 +3433,7 @@ Modest Nature
 
 Ace Trainer Wilton - Route 18 (Dragapult) @ Focus Sash
 Ability: Cursed Body
-Level: Scale
+Level: 65
 Timid Nature
 - Shadow Ball
 - Thunder
@@ -3469,7 +3442,7 @@ Timid Nature
 
 Ace Trainer Wilton - Route 18 (Kabutops) @ Mystic Water
 Ability: Swift Swim
-Level: Scale
+Level: 65
 Adamant Nature
 - Waterfall
 - Stone Axe
@@ -3478,7 +3451,7 @@ Adamant Nature
 
 Ace Trainer Wilton - Route 18 (Omastar) @ White Herb
 Ability: Swift Swim
-Level: Scale
+Level: 65
 Modest Nature
 - Shell Smash
 - Hydro Pump
@@ -3487,7 +3460,7 @@ Modest Nature
 
 Ace Trainer Wilton - Route 18 (Pinsir-Mega) @ Pinsirite
 Ability: Aerialate
-Level: Scale
+Level: 65
 Jolly Nature
 - X-Scissor
 - Double-Edge
@@ -3496,7 +3469,7 @@ Jolly Nature
 
 Ace Trainer Wilton - Route 18 (Rotom-Wash) @ Sitrus Berry
 Ability: Levitate
-Level: Scale
+Level: 65
 Timid Nature
 - Thunder
 - Hydro Pump
@@ -3505,7 +3478,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Rotom-Frost) @ Never-Melt Ice
 Ability: Levitate
-Level: Scale
+Level: 65
 Timid Nature
 - Blizzard
 - Volt Switch
@@ -3514,7 +3487,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Blastoise-Mega) @ Blastoisinite
 Ability: Mega Launcher
-Level: Scale
+Level: 64
 Timid Nature
 - Shell Smash
 - Blizzard
@@ -3523,7 +3496,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Heliolisk) @ Life Orb
 Ability: Dry Skin
-Level: Scale
+Level: 65
 Timid Nature
 - Boomburst
 - Surf
@@ -3532,7 +3505,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Nidoqueen) @ Life Orb
 Ability: Sheer Force
-Level: Scale
+Level: 64
 Timid Nature
 - Earth Power
 - Blizzard
@@ -3541,7 +3514,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Yanmega) @ Choice Specs
 Ability: Tinted Lens
-Level: Scale
+Level: 64
 Timid Nature
 - Bug Buzz
 - Air Slash
@@ -3550,7 +3523,7 @@ Timid Nature
 
 Rocker Luca - Route 12 (Walrein) @ Leftovers
 Ability: Ice Body
-Level: Scale
+Level: 64
 Bold Nature
 - Blizzard
 - Substitute
@@ -3559,7 +3532,7 @@ Bold Nature
 
 Camper Justin - Route 12 (Darmanitan-Galar) @ Charti Berry
 Ability: Zen Mode
-Level: Scale
+Level: 64
 Jolly Nature
 - U-turn
 - Flare Blitz
@@ -3568,7 +3541,7 @@ Jolly Nature
 
 Camper Justin - Route 12 (Gengar) @ Spell Tag
 Ability: Levitate
-Level: Scale
+Level: 64
 Timid Nature
 - Nasty Plot
 - Shadow Ball
@@ -3577,7 +3550,7 @@ Timid Nature
 
 Camper Justin - Route 12 (Conkeldurr) @ Assault Vest
 Ability: Iron Fist
-Level: Scale
+Level: 64
 Careful Nature
 - Drain Punch
 - Mach Punch
@@ -3586,7 +3559,7 @@ Careful Nature
 
 Camper Justin - Route 12 (Sandslash-Alola) @ Focus Sash
 Ability: Slush Rush
-Level: Scale
+Level: 64
 Jolly Nature
 - Swords Dance
 - Earthquake
@@ -3595,7 +3568,7 @@ Jolly Nature
 
 Fisherman Andrew - Route 12 (Froslass) @ Light Clay
 Ability: Snow Cloak
-Level: Scale
+Level: 65
 Timid Nature
 - Aurora Veil
 - Blizzard
@@ -3604,7 +3577,7 @@ Timid Nature
 
 Fisherman Andrew - Route 12 (Barbaracle) @ White Herb
 Ability: Tough Claws
-Level: Scale
+Level: 64
 Jolly Nature
 - Shell Smash
 - Liquidation
@@ -3613,7 +3586,7 @@ Jolly Nature
 
 Fisherman Andrew - Route 12 (Arctozolt) @ Magnet
 Ability: Slush Rush
-Level: Scale
+Level: 64
 Naive Nature
 - Bolt Beak
 - Blizzard
@@ -3622,7 +3595,7 @@ Naive Nature
 
 Bird Keeper Sebastian - Route 13 (Gliscor) @ Toxic Orb
 Ability: Poison Heal
-Level: Scale
+Level: 65
 Jolly Nature
 - U-turn
 - Earthquake
@@ -3631,7 +3604,7 @@ Jolly Nature
 
 Bird Keeper Sebastian - Route 13 (Charizard-Mega-X) @ Charizardite X
 Ability: Tough Claws
-Level: Scale
+Level: 65
 Jolly Nature
 - Dragon Dance
 - Flare Blitz
@@ -3640,7 +3613,7 @@ Jolly Nature
 
 Bird Keeper Sebastian - Route 13 (Blaziken) @ Charcoal
 Ability: Speed Boost
-Level: Scale
+Level: 65
 Adamant Nature
 - Swords Dance
 - Flare Blitz
@@ -3649,7 +3622,7 @@ Adamant Nature
 
 Bird Keeper Sebastian - Route 13 (Togekiss) @ Leftovers
 Ability: Serene Grace
-Level: Scale
+Level: 65
 Modest Nature
 - Air Slash
 - Fire Blast
@@ -3658,7 +3631,7 @@ Modest Nature
 
 Bird Keeper Sebastian - Route 13 (Tropius) @ Focus Sash
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Modest Nature
 - Growth
 - Giga Drain
@@ -3667,7 +3640,7 @@ Modest Nature
 
 Picnicker Susie - Route 13 (Shiftry) @ Life Orb
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Adamant Nature
 - Fake Out
 - Solar Blade
@@ -3676,7 +3649,7 @@ Adamant Nature
 
 Picnicker Susie - Route 13 (Goodra) @ Assault Vest
 Ability: Sap Sipper
-Level: Scale
+Level: 65
 Modest Nature
 - Fire Blast
 - Draco Barrage
@@ -3685,7 +3658,7 @@ Modest Nature
 
 Picnicker Susie - Route 13 (Espeon) @ Twisted Spoon
 Ability: Magic Bounce
-Level: Scale
+Level: 65
 Timid Nature
 - Calm Mind
 - Psychic
@@ -3694,7 +3667,7 @@ Timid Nature
 
 Picnicker Susie - Route 13 (Arcanine-Hisui) @ Air Balloon
 Ability: Rock Head
-Level: Scale
+Level: 65
 Adamant Nature
 - Head Smash
 - Solar Beam
@@ -3703,7 +3676,7 @@ Adamant Nature
 
 Picnicker Susie - Route 13 (Alcremie-Mega) @ Alcremite
 Ability: Self Sufficient
-Level: Scale
+Level: 66
 Bold Nature
 - Moonblast
 - Mystical Fire
@@ -3712,7 +3685,7 @@ Bold Nature
 
 Picnicker Alma - Route 13 (Krookodile) @ Focus Sash
 Ability: Intimidate
-Level: Scale
+Level: 65
 Jolly Nature
 - Stealth Rock
 - Wicked Blow
@@ -3721,7 +3694,7 @@ Jolly Nature
 
 Picnicker Alma - Route 13 (Chandelure) @ Choice Scarf
 Ability: Shadow Tag
-Level: Scale
+Level: 65
 Timid Nature
 - Fire Blast
 - Solar Beam
@@ -3730,7 +3703,7 @@ Timid Nature
 
 Picnicker Alma - Route 13 (Tangrowth) @ Assault Vest
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Timid Nature
 - Solar Beam
 - Hidden Power Fire
@@ -3739,7 +3712,7 @@ Timid Nature
 
 Picnicker Alma - Route 13 (Altaria-Mega) @ Altarianite
 Ability: Pixilate
-Level: Scale
+Level: 65
 Bold Nature
 - Fire Blast
 - Hyper Voice
@@ -3748,61 +3721,61 @@ Bold Nature
 
 Picnicker Alma - Route 13 (Chansey) @ Eviolite
 Ability: Natural Cure
-Level: Scale
+Level: 64
 Bold Nature
 - Thunder Wave
 - Seismic Toss
 - Teleport
 - Soft-Boiled
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Cherrim) @ Focus Sash
+Beauties Lola & Shiela - Route 13 (Cherrim) @ Focus Sash
 Ability: Flower Gift
-Level: Scale
+Level: 65
 Jolly Nature
 - Petal Storm
 - Safeguard
 - X-Scissor
 - Return
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Goodra) @ Assault Vest
+Beauties Lola & Shiela - Route 13 (Goodra) @ Assault Vest
 Ability: Sap Sipper
-Level: Scale
+Level: 64
 Adamant Nature
 - Dragon Hammer
 - Fire Punch
 - Drain Punch
 - Power Whip
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Venusaur) @ Sitrus Berry
+Beauties Lola & Shiela - Route 13 (Venusaur) @ Sitrus Berry
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Naive Nature
 - Petal Storm
 - Safeguard
 - Earth Power
 - Weather Ball
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Bouffalant) @ Normal Gem
+Beauties Lola & Shiela - Route 13 (Bouffalant) @ Normal Gem
 Ability: Sap Sipper
-Level: Scale
+Level: 65
 Adamant Nature
 - Head Charge
 - High Horsepower
 - Zen Headbutt
 - Close Combat
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Florges) @ Assault Vest
+Beauties Lola & Shiela - Route 13 (Florges) @ Assault Vest
 Ability: Natural Cure
-Level: Scale
+Level: 65
 Calm Nature
 - Petal Storm
 - Moonblast
 - Safeguard
 - Hidden Power Fire
 
-Beauties Lola & Shiela (Double Battle) - Route 13 (Zebstrika) @ Magnet
+Beauties Lola & Shiela - Route 13 (Zebstrika) @ Magnet
 Ability: Sap Sipper
-Level: Scale
+Level: 65
 Jolly Nature
 - Bolt Strike
 - Flare Blitz
@@ -3811,7 +3784,7 @@ Jolly Nature
 
 Bird Keeper Perry - Route 13 (Rhyperior) @ Rindo Berry
 Ability: Solid Rock
-Level: Scale
+Level: 65
 Careful Nature
 - Stealth Rock
 - Stone Edge
@@ -3820,7 +3793,7 @@ Careful Nature
 
 Bird Keeper Perry - Route 13 (Dragapult) @ Spell Tag
 Ability: Cursed Body
-Level: Scale
+Level: 65
 Naive Nature
 - Shadow Ball
 - Dragon Darts
@@ -3829,7 +3802,7 @@ Naive Nature
 
 Bird Keeper Perry - Route 13 (Sunflora) @ Assault Vest
 Ability: Solar Power
-Level: Scale
+Level: 65
 Calm Nature
 - Solar Beam
 - Fiery Dance
@@ -3838,7 +3811,7 @@ Calm Nature
 
 Bird Keeper Perry - Route 13 (Rapidash) @ Charcoal
 Ability: Blazing Soul
-Level: Scale
+Level: 65
 Jolly Nature
 - Fire Lash
 - Solar Blade
@@ -3847,7 +3820,7 @@ Jolly Nature
 
 Bird Keeper Perry - Route 13 (Gardevoir) @ Lum Berry
 Ability: Trace
-Level: Scale
+Level: 65
 Timid Nature
 - Calm Mind
 - Psychic
@@ -3856,7 +3829,7 @@ Timid Nature
 
 Biker Jared - Route 13 (Crustle) @ Custap Berry
 Ability: Sturdy
-Level: Scale
+Level: 65
 Adamant Nature
 - Stealth Rock
 - Spikes
@@ -3865,7 +3838,7 @@ Adamant Nature
 
 Biker Jared - Route 13 (Leavanny) @ Focus Sash
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Adamant Nature
 - Solar Blade
 - Swords Dance
@@ -3874,7 +3847,7 @@ Adamant Nature
 
 Biker Jared - Route 13 (Camerupt-Mega) @ Cameruptite
 Ability: Sheer Force
-Level: Scale
+Level: 65
 Modest Nature
 - Fire Blast
 - Earth Power
@@ -3883,7 +3856,7 @@ Modest Nature
 
 Biker Jared - Route 13 (Eelektross) @ Assault Vest
 Ability: Levitate
-Level: Scale
+Level: 65
 Calm Nature
 - Thunderbolt
 - Fire Blast
@@ -3892,7 +3865,7 @@ Calm Nature
 
 Biker Jared - Route 13 (Mamoswine) @ Soft Sand
 Ability: Thick Fat
-Level: Scale
+Level: 64
 Jolly Nature
 - Headlong Rush
 - Icicle Crash
@@ -3901,7 +3874,7 @@ Jolly Nature
 
 Bird Keeper Robert - Route 13 (Exeggutor) @ Focus Sash
 Ability: Chlorophyll
-Level: Scale
+Level: 65
 Timid Nature
 - Sleep Powder
 - Solar Beam
@@ -3910,7 +3883,7 @@ Timid Nature
 
 Bird Keeper Robert - Route 13 (Emboar) @ Charcoal
 Ability: Charcoal
-Level: Scale
+Level: 65
 Charcoal Nature
 - Flare Blitz
 - Close Combat
@@ -3919,7 +3892,7 @@ Charcoal Nature
 
 Bird Keeper Robert - Route 13 (Archeops) @ Sharp Beak
 Ability: Defeatist
-Level: Scale
+Level: 65
 Jolly Nature
 - Brave Bird
 - Head Smash
@@ -3928,7 +3901,7 @@ Jolly Nature
 
 Bird Keeper Robert - Route 13 (Jolteon) @ Life Orb
 Ability: Volt Absorb
-Level: Scale
+Level: 65
 Timid Nature
 - Volt Switch
 - Thunderbolt
@@ -3937,10 +3910,297 @@ Timid Nature
 
 Bird Keeper Robert - Route 13 (Druddigon) @ Rocky Helmet
 Ability: Rough Skin
-Level: Scale
+Level: 65
 Careful Nature
 - Glare
 - Dragon Hammer
 - Gunk Shot
 - Fire Punch
+
+Ace Trainer Naomi - Victory Road (Ambipom) @ Silk Scarf
+Ability: Technician
+Level: 83
+Jolly Nature
+- Fake Out
+- Tail Slap
+- Arm Thrust
+- U-turn
+
+Ace Trainer Naomi - Victory Road (Shedinja) @ Focus Sash
+Ability: Wonder Guard
+Level: 83
+Bashful Nature
+- Shadow Sneak
+- X-Scissor
+- Will-O-Wisp
+- Phantom Force
+
+Ace Trainer Naomi - Victory Road (Absol-Mega) @ Absolite
+Ability: Blademaster
+Level: 84
+Jolly Nature
+- Play Rough
+- Night Slash
+- Sucker Punch
+- Superpower
+
+Ace Trainer Naomi - Victory Road (Bruxish) @ Mystic Water
+Ability: Strong Jaw
+Level: 83
+Jolly Nature
+- Psychic Fangs
+- Aqua Jet
+- Aqua Fang
+- Crunch
+
+Ace Trainer Naomi - Victory Road (Galvantula) @ Magnet
+Ability: Compound Eyes
+Level: 83
+Timid Nature
+- Bug Buzz
+- Thunder
+- Giga Drain
+- Volt Switch
+
+Ace Trainer Ronaldo - Victory Road (Ferrothorn) @ Rocky Helmet
+Ability: Iron Barbs
+Level: 82
+Careful Nature
+- Stealth Rock
+- Power Whip
+- Thunder Wave
+- Iron Head
+
+Ace Trainer Ronaldo - Victory Road (Mudsdale) @ Leftovers
+Ability: Stamina
+Level: 82
+Impish Nature
+- Earthquake
+- Slack Off
+- Toxic
+- Protect
+
+Ace Trainer Ronaldo - Victory Road (Clawitzer) @ Choice Scarf
+Ability: Mega Launcher
+Level: 82
+Timid Nature
+- Water Pulse
+- Ice Beam
+- Dark Pulse
+- Aura Sphere
+
+Ace Trainer Ronaldo - Victory Road (Ampharos-Mega) @ Ampharosite
+Ability: Thick Fat
+Level: 84
+Modest Nature
+- Dragon Pulse
+- Discharge
+- Volt Switch
+- Focus Blast
+
+Ace Trainer Ronaldo - Victory Road (Leavanny) @ Life Orb
+Ability: Blademaster
+Level: 82
+Jolly Nature
+- Fell Stinger
+- Leaf Blade
+- Knock Off
+- X-Scissor
+
+Ace Trainer George - Victory Road (Exeggutor-Alola) @ Miracle Seed
+Ability: Chlorophyll
+Level: 83
+Modest Nature
+- Sleep Powder
+- Giga Drain
+- Dragon Pulse
+- Flamethrower
+
+Ace Trainer George - Victory Road (Mienshao) @ Life Orb
+Ability: Regenerator
+Level: 84
+Jolly Nature
+- Fake Out
+- Close Combat
+- U-turn
+- Knock Off
+
+Ace Trainer George - Victory Road (Pinsir-Mega) @ Pinsirite
+Ability: Aerialate
+Level: 84
+Jolly Nature
+- Quick Attack
+- X-Scissor
+- Double-Edge
+- Close Combat
+
+Ace Trainer George - Victory Road (Donphan) @ Leftovers
+Ability: Technician
+Level: 84
+Adamant Nature
+- Bonemerang
+- Ice Shard
+- Rock Blast
+- Knock Off
+
+Ace Trainer George - Victory Road (Cloyster) @ White Herb
+Ability: Skill Link
+Level: 84
+Jolly Nature
+- Rock Blast
+- Icicle Spear
+- Liquidation
+- Shell Smash
+
+Ace Trainer Caroline - Victory Road (Bellossom) @ Leftovers
+Ability: Chlorophyll
+Level: 83
+Timid Nature
+- Sleep Powder
+- Quiver Dance
+- Strength Sap
+- Moonblast
+
+Ace Trainer Caroline - Victory Road (Lopunny-Mega) @ Lopunnite
+Ability: Scrappy
+Level: 83
+Jolly Nature
+- Close Combat
+- Fake Out
+- Frustration
+- Quick Attack
+
+Ace Trainer Caroline - Victory Road (Parasect) @ Focus Sash
+Ability: Dry Skin
+Level: 83
+Adamant Nature
+- Spore
+- Leaf Blade
+- Leech Life
+- Crabhammer
+
+Ace Trainer Caroline - Victory Road (Vileplume) @ Black Sludge
+Ability: Chlorophyll
+Level: 83
+Calm Nature
+- Sludge Bomb
+- Giga Drain
+- Sleep Powder
+- Strength Sap
+
+Ace Trainer Caroline - Victory Road (Amoonguss) @ Black Sludge
+Ability: Regenerator
+Level: 83
+Impish Nature
+- Spore
+- Foul Play
+- Giga Drain
+- Clear Smog
+
+Ace Trainer Colby - Victory Road (Feraligatr) @ Focus Sash
+Ability: Strong Jaw
+Level: 83
+Jolly Nature
+- Dragon Dance
+- Aqua Fang
+- Ice Fang
+- Jaw Lock
+
+Ace Trainer Colby - Victory Road (Empoleon) @ Leftovers
+Ability: Competitive
+Level: 84
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Sleep Talk
+
+Ace Trainer Colby - Victory Road (Swanna) @ Life Orb
+Ability: No Guard
+Level: 83
+Timid Nature
+- Hurricane
+- Hydro Pump
+- Ice Beam
+
+Ace Trainer Colby - Victory Road (Walrein) @ Leftovers
+Ability: Fur Coat
+Level: 83
+Calm Nature
+- Surf
+- Toxic
+- Protect
+- Ice Beam
+
+Ace Trainer Colby - Victory Road (Sharpedo-Mega) @ Sharpedonite
+Ability: Strong Jaw
+Level: 84
+Jolly Nature
+- Crunch
+- Ice Fang
+- Aqua Jet
+- Aqua Fang
+
+Ace Trainer Alexa - Victory Road (Clefable) @ Life Orb
+Ability: Magic Guard
+Level: 83
+Modest Nature
+- Moonblast
+- Fire Blast
+- Thunderbolt
+- Stealth Rock
+
+Ace Trainer Alexa - Victory Road (Chansey) @ Eviolite
+Ability: Natural Cure
+Level: 83
+Bold Nature
+- Wish
+- Toxic
+- Protect
+- Seismic Toss
+
+Ace Trainer Alexa - Victory Road (Wigglytuff) @ Life Orb
+Ability: Competitive
+Level: 83
+Bashful Nature
+- Moonblast
+- Flamethrower
+- Thunderbolt
+- Hyper Voice
+
+Ace Trainer Alexa - Victory Road (Komala) @ Choice Band
+Ability: Comatose
+Level: 83
+Adamant Nature
+- Frustration
+- Knock Off
+- U-turn
+- Earthquake
+
+Ace Trainer Alexa - Victory Road (Audino-Mega) @ Audinite
+Ability: Regenerator
+Level: 84
+Bold Nature
+- Moonblast
+- Wish
+- Toxic
+- Protect
+
+Ray & Tyra - Victory Road (Nidoking) @ Life Orb
+Ability: Sheer Force
+Level: 85
+Timid Nature
+- Ice Beam
+- Earth Power
+- Sludge Bomb
+- Flamethrower
+
+Ray & Tyra - Victory Road (Nidoqueen) @ Life Orb
+Ability: Sheer Force
+Level: 85
+Modest Nature
+- Ice Beam
+- Earth Power
+- Sludge Bomb
+- Flamethrower
 
